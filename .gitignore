@@ -10,3 +10,8 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+.toolchain/
+gscsvc
+*.db
+*.db-wal
+*.db-shm
